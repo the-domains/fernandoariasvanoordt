@@ -1,0 +1,28 @@
+name: FernandoAriasvanOordt
+favicon: null
+layout_spectrum: 0.31422754283994436
+typography_spectrum: 0.5981252768542618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.08211615891195834
+  lightness: 0.5635797253344208
+  saturation: 0.15570485428906977
+  rhythmicContrast: 0.4383726720698178
+purpose: []
