@@ -1,4 +1,4 @@
-name: FernandoAriasvanOordt
+name: Fernando Arias van Oordt
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.72058
@@ -24,6 +24,6 @@ color:
     - '#eb7200'
   brandStrength: 0.25
   lightness: 0.4375
-  saturation: 0.3125
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
