@@ -1,6 +1,6 @@
 name: FernandoAriasvanOordt
 favicon: null
-layout_spectrum: 0.35406
+layout_spectrum: 0.9445
 typography_spectrum: 0.72058
 title: how to slaught chickens the proper way
 cta:
@@ -22,8 +22,8 @@ color:
     - '#a30000'
     - '#ecc7b6'
     - '#eb7200'
-  brandStrength: 0.08211615891195834
-  lightness: 0.3125
-  saturation: 0.5
+  brandStrength: 0.25
+  lightness: 0.375
+  saturation: 0.5625
   rhythmicContrast: 0.75
 purpose: []
