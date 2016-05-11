@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: I would love to sell a com. The trick is not to go bankrupt before it happens.
-datePublished: '2016-05-11T14:10:21.307Z'
-dateModified: '2016-05-11T14:09:35.335Z'
+description: 'Looking at finance numbers really makes my head hurt, I have no idea what it all means.'
+datePublished: '2016-05-11T14:10:40.693Z'
+dateModified: '2016-05-11T14:10:35.625Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-my-goal-is-to-build-a-company-and-then-sell-it-as-soon-as-i.md
@@ -21,4 +21,4 @@ url: my-goal-is-to-build-a-company-and-then-sell-it-as-soon-as-i/index.html
 _type: Article
 
 ---
-> I would love to sell a com. The trick is not to go bankrupt before it happens.
+> Looking at finance numbers really makes my head hurt, I have no idea what it all means.
