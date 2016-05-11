@@ -15,11 +15,11 @@ keywords:
   - equipment
   - food
   - shandong
-description: 'Shandong Osaint is a group company of scientific innovation enterprise, devoted to designing, manufacturing and sales of food machinery. It involves meat processing machines and poultry industry. Its main products consist of meat bone separator, slaughterhouse equipment, sausage machines and other meat food machines. Headquarter is located in Jinan city, Shandong province.'
-datePublished: '2016-05-11T10:40:32.293Z'
-dateModified: '2016-05-11T10:39:47.111Z'
+description: I enjoy the process of the chicken slaughter
+datePublished: '2016-05-11T10:41:50.333Z'
+dateModified: '2016-05-11T10:41:48.989Z'
 author:
-  - name: Anna Di
+  - name: Fernando
     url: 'https://www.youtube.com/channel/UCqx0k3AhSOU0X4oqU0fs0tQ'
     avatar: {}
 related: []
