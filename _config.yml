@@ -1,5 +1,20 @@
-layout_spectrum: 0.5701287037227303
+name: worthless animals of the wild
+favicon: null
+layout_spectrum: 0.2486
 typography_spectrum: 0.4817470065318048
+title: 'a story about chickens, poop and envy'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FF6600'
@@ -7,23 +22,8 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
-  brandStrength: 0.6980199594981968
-  lightness: 0.3124290050473064
-  saturation: 0.19146190397441387
+  brandStrength: 0.875
+  lightness: 0.25
+  saturation: 0.125
   rhythmicContrast: 0.965998328756541
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: worthless animals of the wild
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: 'a story about chickens, poop and envy'
 purpose: []
