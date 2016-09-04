@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Chickens, Embezzlement and Bankruptcy ]]></title>
-        <description><![CDATA[Chickens, Embezzlement and Bankruptcy ]]></description>
+        <title><![CDATA[a story about chickens, poop and envy]]></title>
+        <description><![CDATA[a story about chickens, poop and envy]]></description>
         <link>http://fernandoariasvanoordt.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 14:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 20:59:22 GMT</lastBuildDate>
         <atom:link href="http://fernandoariasvanoordt.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The book “Fernando Arias vanOordt” will be published in fall 2017</p>]]></description>
+            <link>http://fernandoariasvanoordt.com/the-book-fernando-arias-vanoordt-will-be-published-in-fall/index.html</link>
+            <guid isPermaLink="false">9f1d8543-9af2-4932-a6f4-05a9cb6ae926</guid>
+            <pubDate>Thu, 01 Sep 2016 20:59:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chicken Slaughter machine]]></title>
             <description><![CDATA[<article><h1>Chicken Slaughter machine</h1><p>I enjoy the process of the chicken slaughter</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/213513dfb8fdfaf23885bcc48e1f2265638e82e5.jpg"></article>]]></description>
