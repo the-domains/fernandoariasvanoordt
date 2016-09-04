@@ -1,20 +1,4 @@
-name: worthless animals of the wild
-favicon: null
-layout_spectrum: 0.2486
 typography_spectrum: 0.4817470065318048
-title: 'a story about chickens, poop and envy'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6600'
@@ -26,4 +10,24 @@ color:
   lightness: 0.25
   saturation: 0.125
   rhythmicContrast: 0.965998328756541
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2486
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: worthless animals of the wild
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: about the book
+    id: 9f1d8543-9af2-4932-a6f4-05a9cb6ae926
+    type: content
+favicon: null
+title: 'a story about chickens, poop and envy'
 purpose: []
